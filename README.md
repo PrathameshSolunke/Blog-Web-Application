@@ -63,7 +63,9 @@ Frontend:
 bash
 Copy code
 npm run dev
-📖 Design Decisions & Trade-offs
+
+
+## 📖 Design Decisions & Trade-offs
 Used JWT for stateless authentication (lightweight & scalable).
 
 TailwindCSS for fast, responsive UI development.
